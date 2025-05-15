@@ -1,2 +1,2 @@
-# Atlas-Bharath-
+# Atlas-Bharath
 Atlas Training 
